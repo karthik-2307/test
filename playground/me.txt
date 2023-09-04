@@ -1,0 +1,5 @@
+{{#user}}
+Name:KARTHIK REDDY YADAMAKANTI
+Skills:HTML, CSS, JS, Django
+Email:karthikreddyyedamakanti313@gmail.com
+{{/user}}
